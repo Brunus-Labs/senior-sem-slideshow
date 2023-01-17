@@ -2,7 +2,7 @@
 
 Featuring
 * Josh Brown
-* Ahmed
+* Ahmed Darwich
 
 Presented with `slides`
 
@@ -85,8 +85,17 @@ plus other, smaller projects.
 
 ---
 
+# Working for a Startup
+- Need to be flexible, resiliant, and resourceful
+- Expected to give 100% at all times
+- Personal Impact is massive
+- Opportunity to learn is immense
+- Requires massive trust between team members
+
+---
+
 # Determining Rate
-- How comolex is the project?
+- How complex is the project?
 - How long will it take?
 - Does customer have funds?
 - Is project profitable?
