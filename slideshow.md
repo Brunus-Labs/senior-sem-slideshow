@@ -10,12 +10,9 @@ Presented with `slides`
 
 # What exactly is Brunus Labs
 
-Brunus Labs is a software consulting firm
-that takes on contracts for companies that do not
-have the resources to hire their own full time
-development team. We specialize in web development,
-but are comfortable taking on any software challenge
-presented to us. 
+- Consulting Firm
+- Contract Based
+- Specialize in highly custom software solutions
 
 Brunus Labs handles everything from hosting, development
 life cycle, project management, and anything else that is required.
