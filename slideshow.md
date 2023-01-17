@@ -59,10 +59,12 @@ Project description under loose confidentiality agreement
 Multi purpose site, focused on literature.
 - Python (Flask + SQLAlchemy + Pytest)
 - React (Vite, Chakra)
+- Docker (Compose)
 - Postgres
 - Redis
 - Nginx
 - Heavy use of GH Actions
+- AWS
 
 plus other, smaller projects.
 
@@ -108,6 +110,7 @@ standup:
 - You control everything
 - You can move as fast or as slow as you want
 - You make the rules
+- You learn alot
 
 ## Cons
 - Expensive
@@ -116,6 +119,43 @@ standup:
 - Everything is your responsibility
 - There is no such thing as time off
 
+---
+
+# Finance Example
+
+Our Q4
+
+Total Income
+- $16,000
+
+Total Expenses
+- $4,600
+
+Taxes
+- $3,500
+
+Net:
+- $7,900
+
+## Expenses
+- Employee Payroll (~$160 every 2 weeks)
+- Employee Wages (~$250 every 2 weeks)
+- Insurance (~$60/month)
+- Bank Fees (~$40/month)
+- Subscriptions (Docusign, etc ~$15/month)
+- Accountant (~$500/yr)
+- Legal Fees (~$150 one time)
+- Etc
+
+---
+
+# Running a startup
+- Requires 150% of your time
+- Requires confidence & high organization
+- You need to love what you do
+- Take responsibility for your actions, and the actions of your employees
+- Customer relations
+- Seperation of business / personal money
 
 ---
 
