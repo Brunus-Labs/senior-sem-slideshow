@@ -53,7 +53,7 @@ Project description under loose confidentiality agreement
 - Next (in progress)
 
 ### Biblish
-Multi purpose site, focused on literatue.
+Multi purpose site, focused on literature.
 - Python (Flask + SQLAlchemy + Pytest)
 - React (Vite, Chakra)
 - Postgres
@@ -90,7 +90,7 @@ plus other, smaller projects.
 - Expected to give 100% at all times
 - Personal Impact is massive
 - Opportunity to learn is immense
-- Requires massive trust between team members
+- Requires trust between team members
 
 ---
 
