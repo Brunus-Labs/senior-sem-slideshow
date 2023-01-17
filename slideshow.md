@@ -75,6 +75,9 @@ plus other, smaller projects.
 - Linting
 - Tests
 - Standups
+    * Constant avenues of communication
+    * Diverse Skillsets
+    * Motivational
 
 ---
 
