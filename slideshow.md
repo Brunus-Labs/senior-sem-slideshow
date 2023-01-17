@@ -70,14 +70,28 @@ plus other, smaller projects.
 
 # Working on a team
 
-- Just
-- Git
 - Linting
 - Tests
 - Standups
     * Constant avenues of communication
     * Diverse Skillsets
     * Motivational
+- Just
+
+```make
+alias stand := standup
+date := `date "+%m-%d-%y"`
+
+# Generate standup md file
+standup:
+    @touch standups/{{date}}.md
+    @echo "# Stand-up for {{date}}" > standups/{{date}}.md
+    @cat standups/template.md >> standups/{{date}}.md
+    @echo "Generated standup for {{date}}"
+```
+
+- Git
+[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ---
 
@@ -89,10 +103,24 @@ plus other, smaller projects.
 - Employees
 - Taxes
 
+## Pros
+- You are your own boss
+- You control everything
+- You can move as fast or as slow as you want
+- You make the rules
+
+## Cons
+- Expensive
+- You do not see most of the money you make
+- Taxes
+- Everything is your responsibility
+- There is no such thing as time off
+
+
 ---
 
 # Working for a Startup
-- Need to be flexible, resiliant, and resourceful
+- Need to be flexible, resilient, and resourceful
 - Expected to give 100% at all times
 - Personal Impact is massive
 - Opportunity to learn is immense
