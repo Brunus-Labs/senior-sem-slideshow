@@ -54,7 +54,7 @@ Project description under lose confidentiality agreement
 - Mongo -> Postgres
 - Next (in progress)
 
-# Biblish
+### Biblish
 Multi purpose site, focused on literatue.
 - Python (Flask + SQLAlchemy + Pytest)
 - React (Vite, Chakra)
@@ -65,4 +65,43 @@ Multi purpose site, focused on literatue.
 
 plus other, smaller projects.
 
+---
+
+# Working on a team
+
+- Just
+- git
+- linting
+- tests
+- standups
+
+---
+
+# Starting a company
+- Insurance
+- Contracts
+- Legal Formation
+- Logo
+- Employees
+- Taxes
+
+---
+
+# Determining Rate
+- How comolex is the project?
+- How long will it take?
+- Does customer have funds?
+- Is project profitable?
+
+---
+
+# Hiring
+- What we look for
+- Legal considerations
+- Setting up pay
+- determining pay
+
+---
+
+# Questions?
 
