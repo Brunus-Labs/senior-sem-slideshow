@@ -21,31 +21,32 @@ life cycle, project management, and anything else that is required.
 
 # Meet the team
 ## Ahmed
-- Back-end Dev
+- Back-End Dev
 - Currently obtaining Masters of CS at Akron
+- Graduating May 2023
 - Works for Huntington Bank
 
 ## Matt
 - Devops Specialist
-- Full-stack Engineer
+- Full-Stack Engineer
 - Graduated
 - Works for Hyland
 
 ## Will
-- Front-end Dev
+- Front-End Dev
 - Graduated
 - Works for Skillnet
 
 ## Josh
 - CEO
-- Full-stack Engineer
-- Graduating may 2023
+- Full-Stack Engineer
+- Graduating May 2023
 
 ---
 
 # Projects
 ### Abot
-Project description under lose confidentiality agreement  
+Project description under loose confidentiality agreement  
 - Python
 - Docker
 - Mongo -> Postgres
@@ -67,10 +68,10 @@ plus other, smaller projects.
 # Working on a team
 
 - Just
-- git
-- linting
-- tests
-- standups
+- Git
+- Linting
+- Tests
+- Standups
 
 ---
 
@@ -96,7 +97,7 @@ plus other, smaller projects.
 - What we look for
 - Legal considerations
 - Setting up pay
-- determining pay
+- Determining pay
 
 ---
 
