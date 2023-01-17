@@ -37,7 +37,7 @@ life cycle, project management, and anything else that is required.
 ## Will
 - Front-end Dev
 - Graduated
-- Works for ##############
+- Works for Skillnet
 
 ## Josh
 - CEO
