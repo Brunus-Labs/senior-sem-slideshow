@@ -32,7 +32,7 @@ life cycle, project management, and anything else that is required.
 - Devops Specialist
 - Full-stack Engineer
 - Graduated
-- Works for ###############
+- Works for Hyland
 
 ## Will
 - Front-end Dev
@@ -41,5 +41,28 @@ life cycle, project management, and anything else that is required.
 
 ## Josh
 - CEO
+- Full-stack Engineer
 - Graduating may 2023
+
+---
+
+# Projects
+### Abot
+Project description under lose confidentiality agreement  
+- Python
+- Docker
+- Mongo -> Postgres
+- Next (in progress)
+
+# Biblish
+Multi purpose site, focused on literatue.
+- Python (Flask + SQLAlchemy + Pytest)
+- React (Vite, Chakra)
+- Postgres
+- Redis
+- Nginx
+- Heavy use of GH Actions
+
+plus other, smaller projects.
+
 
