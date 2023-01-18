@@ -28,22 +28,27 @@ life cycle, project management, and anything else that is required.
 - Currently obtaining Masters of CS at Akron
 - Graduating May 2023
 - Works for Huntington Bank
+- Absolute Unit in the gym
 
 ## Matt
 - Devops Specialist
 - Full-Stack Engineer
 - Graduated
 - Works for Hyland
+- Originally helped Josh build Reppo
 
 ## Will
 - Front-End Dev
 - Graduated
 - Works for Skillnet
+- Loves longboarding
 
 ## Josh
 - CEO
 - Full-Stack Engineer
 - Graduating May 2023
+- Also Loves Longboarding
+- 2 Math equation Tattoos
 
 ---
 
@@ -74,9 +79,9 @@ plus other, smaller projects.
 
 - Linting
 - Tests
-- Standups
+- Stand-ups
     * Constant avenues of communication
-    * Diverse Skillsets
+    * Diverse Skill sets
     * Motivational
 - Just
 
@@ -110,7 +115,7 @@ standup:
 - You control everything
 - You can move as fast or as slow as you want
 - You make the rules
-- You learn alot
+- You learn a lot
 
 ## Cons
 - Expensive
@@ -155,7 +160,7 @@ Net:
 - You need to love what you do
 - Take responsibility for your actions, and the actions of your employees
 - Customer relations
-- Seperation of business / personal money
+- Separation of business / personal money
 
 ---
 
@@ -185,8 +190,8 @@ Net:
 ---
 # Contact Us
 
-josh@brunuslabs.com
-ahmed@brunuslabs.com
+Josh@brunuslabs.com
+Ahmed@brunuslabs.com
 
 Checkout our [Github](https://github.com/Brunus-Labs)
 
