@@ -49,6 +49,7 @@ life cycle, project management, and anything else that is required.
 - Graduating May 2023
 - Also Loves Longboarding
 - 2 Math equation Tattoos
+- Bigger legs than Ahmed
 
 ---
 
