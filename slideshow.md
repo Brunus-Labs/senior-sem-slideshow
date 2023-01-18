@@ -183,6 +183,14 @@ Net:
 - Determining pay
 
 ---
+# Contact Us
+
+josh@brunuslabs.com
+ahmed@brunuslabs.com
+
+Checkout our [Github](https://github.com/Brunus-Labs)
+
+---
 
 # Questions?
 
